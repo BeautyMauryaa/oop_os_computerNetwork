@@ -1,3 +1,9 @@
+# oop_os_computerNetwork
+
+Welcome to the **oop_os_computerNetwork** repository[cite: 1]! This repository serves as a comprehensive revision guide and preparation tracker for core Computer Science fundamentals—specifically Object-Oriented Programming (OOP), Operating Systems (OS), and Computer Networks—tailored for technical interviews and assessments.
+
+---
+
 # 1. OOP
 **High priority**  
 Four pillars, classes, objects, polymorphism, abstraction, practical examples
